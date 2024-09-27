@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="TankGames/src"/>
+	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="day04_jdbc/src"/>
 	<classpathentry kind="src" path="day05_dataSoure_jdbcTemplate/src"/>
 	<classpathentry kind="src" path="多线程/src"/>
+	<classpathentry excluding="src/" kind="src" path="TankGames"/>
+	<classpathentry excluding="src/" kind="src" path="day05_dataSoure_jdbcTemplate"/>
+	<classpathentry excluding="src/" kind="src" path="day04_jdbc"/>
+	<classpathentry kind="src" path="Javase"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JRE-1.1">
 		<attributes>
 			<attribute name="module" value="true"/>

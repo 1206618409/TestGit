@@ -1,3 +1,5 @@
+package src;
+
 public class RubbleSort {
     public static void main(String[] args) {
         int[] a = {9,3,1,4,6,8,7,5,2};

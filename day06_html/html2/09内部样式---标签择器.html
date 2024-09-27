@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>标签选择器</title>
+    <style type="text/css">
+        /*标签名字{
+            属性:属性值;
+            属性：属性值;
+            属性：属性值;
+        }*/
+        h1{
+            /*文字颜色设置 */
+            color: green;
+            font-size: 12px; /*文字像素*/
+            /*背景颜色的设置*/
+            background-color: orange;
+            /*文本的对齐方式*/
+            text-align: center/*居中*/;
+            /*字体样式设置*/
+            font-style: italic;/*字体倾斜*/
+        }
+
+        div{
+            /*width: 100px;
+            height: 100px;
+            margin:0 auto;  必须有字体大小高度支撑*/
+            background-color: red;
+            font-size: 28px;
+            color: cyan;/*青色*/
+            text-align: center;
+            font-style: italic;
+            /*透明度设置，透明度范围 0-1 */
+            opacity: 1;
+           /* 光标防止标签中:变为小手; */
+            cursor: pointer;
+        }
+        span{
+            color: cyan;
+            background-color: orange;
+        }
+        /*	标签选择器：常用样式中选择匹配标签
+                    color【设置标签文字颜色】	                    red、orange、yellow、green、cyan、blue、purple
+                    font-size【标签文字大小尺寸设置】	            Numberpx (数字最小12~)
+                    background-color【背景颜色设置】	            red、orange、yellow、green、cyan、blue、purple
+                    text-align【文本对齐方式】	                left、center、right
+                    font-style[字体样式]	                        italic
+                    Opacity【透明度设置】	                    0~1【0：纯透明】
+                    cursor	pointer【小手】
+                        */
+
+    </style>
+</head>
+<body>
+        <h1>我是一级标题</h1>
+        <h1>我是一级标题</h1>
+        <div>我是常用<span>布局</span>标签</div>
+
+</body>
+</html>

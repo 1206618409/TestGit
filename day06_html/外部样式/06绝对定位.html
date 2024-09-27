@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>绝对定位</title>
+</head>
+
+      <style>
+
+          body{
+              height: 3000px;
+          }
+          *{
+            margin: 0px;
+              padding:0px;
+           }
+           div{
+              width: 400px;
+              height: 200px;
+            }
+           .box1{
+               position: absolute;
+               left: 100px;
+               top: 100px;
+               background: red;
+           }
+           .box2{
+                background: green;
+           }
+          .box3{
+                background: purple;
+            }
+
+
+            </style>
+<body>
+<!--3.3绝对定位
+                概述：绝对定位也可以让元素脱离标准文档流：
+                1.	绝对定位元素，如果没有定位父元素【绝对定位元素：参照页面进行偏移】
+                2.	绝对定位元素，如果有定位父元素【绝对定位元素：参照定位父元素进行偏移】
+                注意：绝对定位元素不占起始位置（别人可以占用起始位置）
+-->
+            <div class="box1"></div>
+            <div class="box2"></div>
+            <div class="box3"></div>
+</body>
+</html>

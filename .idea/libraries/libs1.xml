@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="libs1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/day05_dataSoure_jdbcTemplate/libs/spring-core-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/day05_dataSoure_jdbcTemplate/libs/druid-1.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/day05_dataSoure_jdbcTemplate/libs/mchange-commons-java-0.2.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/day05_dataSoure_jdbcTemplate/libs/spring-tx-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/day05_dataSoure_jdbcTemplate/libs/spring-jdbc-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/day05_dataSoure_jdbcTemplate/libs/spring-beans-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/day05_dataSoure_jdbcTemplate/libs/mysql-connector-java-5.1.48-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/day05_dataSoure_jdbcTemplate/libs/commons-logging-1.2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/day05_dataSoure_jdbcTemplate/libs/c3p0-0.9.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Common.iml" filepath="$PROJECT_DIR$/Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javase/Javase.iml" filepath="$PROJECT_DIR$/Javase/Javase.iml" />
       <module fileurl="file://$PROJECT_DIR$/TankGames/TankGames.iml" filepath="$PROJECT_DIR$/TankGames/TankGames.iml" />
       <module fileurl="file://$PROJECT_DIR$/day04_jdbc/day04_jdbc.iml" filepath="$PROJECT_DIR$/day04_jdbc/day04_jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/day05_dataSoure_jdbcTemplate/day05_dataSoure_jdbcTemplate.iml" filepath="$PROJECT_DIR$/day05_dataSoure_jdbcTemplate/day05_dataSoure_jdbcTemplate.iml" />

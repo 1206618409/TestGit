@@ -14,7 +14,7 @@ public class TankFrame extends Frame {
     public List<Explode> explodes = new ArrayList<>();
     Explode e = new Explode(100,100,this);
     //public GameFactory gf = new DefaultFactory();
-    public static final int GAME_WIDTH = 800,GAME_HEIGHT = 600;
+    public static final int GAME_WIDTH = 1000,GAME_HEIGHT = 800;
      public TankFrame() {
         setSize(GAME_WIDTH,GAME_HEIGHT);
         setResizable(false);

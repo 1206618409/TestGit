@@ -1,3 +1,5 @@
+package src;
+
 public class ShellSort {
     public static void main(String[] args) {
         int[] a = {9,6,11,3,5,12,8,7,10,15,14,4,1,13,2};
